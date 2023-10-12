@@ -13,23 +13,23 @@
 ### Controller
 * UserController
 * AdminController
-* VisitorController
+* FoodItemController
 ### Service
 * AdminService
-* FoodService
+* FoodItemService
 * OrderService
 * UserService
 * AuthenticationService
 ### Model
 * Admin
 * User
-* Food
+* FoodItem
 * order
 * AuthenticationToken
 ### Repository
 * IAdminRepo
 * IUserRepo
-* IFoodRepo
+* IFoodItemRepo
 * IOrderRepo
 * IAuthrnticationRepo
 
